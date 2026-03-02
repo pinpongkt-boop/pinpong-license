@@ -1,6 +1,12 @@
 {
+  "FREE001": {
+    "status": "active",
+    "type": "free"
+  },
   "PINPONG001": {
     "status": "active",
-    "expire": "2026-04-01"
+    "type": "pro",
+    "expire": "2026-04-01",
+    "hwid": ""
   }
 }
